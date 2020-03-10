@@ -1,0 +1,6 @@
+# Ignore all project directories and files -- not needed for daemon
+**
+
+# Exceptions
+!pom.xml
+!/src
